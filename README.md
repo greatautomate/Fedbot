@@ -1,4 +1,4 @@
-# Telegram Appeals Bot
+# Telegram FED Bot
 
 A comprehensive Telegram bot designed to handle FedBan appeals and Fed Admin requests with an intuitive user interface and robust admin management system.
 
